@@ -32,7 +32,7 @@ Temas:
 |Questão | Dificuldade | Código presente em:|
 | -- | -- | -- |
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)  |  ***Difícil*** | [regExpression.py](codigos/regExpression.py) |
-| [354. Russian Doll Envelopes](https://leetcode.com/problems/multiply-strings/description/)  |  ***Difícil*** | [russianEnvelopes.py](codigos/russianEnvelopes.py) |
+| [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/description/)  |  ***Difícil*** | [russianEnvelopes.py](codigos/russianEnvelopes.py) |
 
 ## Screenshots
 <!-- Adicione 3 ou mais screenshots do projeto em funcionamento. -->
